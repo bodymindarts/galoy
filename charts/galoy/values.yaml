@@ -93,7 +93,7 @@ redis:
   auth:
     enabled: false
   sentinel:
-    enabled: true
+    enabled: false
     
     # localdev
     service:
